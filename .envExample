@@ -1,0 +1,8 @@
+MYSQL_ROOT_PASSWORD="Pa$$w0rd"
+MYSQL_PASSWORD="Pa$$w0rd"
+MYSQL_USER="admin"
+MYSQL_HOST="db"
+MYSQL_DATABASE="wordpress"
+GF_ADMIN_USERNAME="admin"
+GF_ADMIN_PASSWORD="Pa$$w0rd"
+NGINX_HOST="test.blossom.mei"
