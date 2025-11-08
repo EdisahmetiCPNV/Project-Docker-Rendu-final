@@ -1,0 +1,3 @@
+FROM mysql:8.0
+WORKDIR /etc/mysql
+COPY config/mysql/my.cnf ./my.cnf
